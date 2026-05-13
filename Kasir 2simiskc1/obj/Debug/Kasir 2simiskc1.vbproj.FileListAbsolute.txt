@@ -1,0 +1,20 @@
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.exe.config
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.exe
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.pdb
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.xml
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Form1.resources
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Resources.resources
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.vbproj.GenerateResource.Cache
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.exe
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.xml
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.pdb
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.exe.config
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.exe
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.xml
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.pdb
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.exe
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.pdb
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\bin\Debug\Kasir 2simiskc1.xml
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Form1.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Resources.resources
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.vbproj.GenerateResource.Cache

@@ -18,3 +18,4 @@ C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2s
 C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Form1.resources
 C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Resources.resources
 C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir 2simiskc1.vbproj.GenerateResource.Cache
+C:\Users\MSI GF63\Documents\Visual Studio 2012\Projects\Kasir 2simiskc1\Kasir 2simiskc1\obj\Debug\Kasir_2simiskc1.Form_login.resources

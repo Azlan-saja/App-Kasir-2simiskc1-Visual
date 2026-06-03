@@ -129,6 +129,34 @@
         txtStruk.AppendText("Uang Kembali    : Rp " & txtUanagKembali.Text & vbCrLf)
         txtStruk.AppendText("====================================" & vbCrLf)
         txtStruk.AppendText("   Terima kasih atas kunjungannya!  " & vbCrLf)
+        txtStruk.AppendText(lblPetugasKasir.Text)
 
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        lblPetugasKasir.Text = Login.TampilUser()
+
+        'Menampilkan Hari pada Objek LblHari
+        Dim hari As String
+        Select Case Weekday(Today)
+            Case 1 : hari = "Minggu"
+            Case 2 : hari = "Senin"
+            Case 3 : hari = "Selasa"
+            Case 4 : hari = "Rabu"
+            Case 5 : hari = "Kamis"
+            Case 6 : hari = "Jumat"
+            Case 7 : hari = "Sabtu"
+        End Select
+        lblHari.Text = hari
+
+        'Menampilkan Tanggal pada objek LblTgl
+        lbltgl.Text = Format(Today, "dd-MM-yyyy")
+
+        Timer1.Enabled = True
+
+    End Sub
+
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        lbljam.Text = Format(Now(), "HH:mm:ss")
     End Sub
 End Class
